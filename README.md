@@ -1,7 +1,7 @@
 ### Hi :) Nice to Meet you! 😄
 <br>
 Welcome to my page!<br>
-I'm Hye Min, software developer from Korea.
+I'm Hye Min, Backend Engineer from Korea.
 
 
 
