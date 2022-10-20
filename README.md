@@ -1,10 +1,10 @@
 ### Hi :) Nice to Meet you! 😄
 <br>
+
+I'm Hye Min, Software Developer from Korea. <br>
+I was a MES developer,but now I am preparing for a backend developer.
+
 Welcome to my page!<br>
-I'm Hye Min, Backend Engineer from Korea.
-
-
-
 
 
 ### My Tech Stack
