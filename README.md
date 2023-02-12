@@ -17,6 +17,12 @@ Welcome to my page!<br>
 ![SVN](https://img.shields.io/badge/SVN-F05032.svg?&style=for-the-badge&logo=SVN&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black)
 
+### News ~ 😄
+Finally! <br>
+I succeeded in deploying my toy project(twitterclone coding) for the first time! <br>
+There are only basic functions yet, but this project will be a skill acquisition project.<br>
+So I'm planning to gradually expand the function and work on other projects that I usually thought of!
+
 <!--
 
 <img alt="Java" src ="https://img.shields.io/badge/JAVA-3776AB.svg?&style=for-the-badge&logo=JAVA&logoColor=White"/>
