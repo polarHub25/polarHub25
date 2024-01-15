@@ -17,6 +17,9 @@ Welcome to my page!<br>
 ![SVN](https://img.shields.io/badge/SVN-F05032.svg?&style=for-the-badge&logo=SVN&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=black)
 
+### Notice 
+After joining the company, I was unable to consistently manage Git. Once the job transition is complete, I plan to start a new toy project. uu 
+
 ### News ~ 😄
 Finally! <br>
 I succeeded in deploying my toy project(twitterclone coding) for the first time! <br>
