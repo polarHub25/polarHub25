@@ -21,7 +21,7 @@ Welcome to my page!<br>
 ### Notice 
 
 I'm currently managing a study repository and a coding test practice repository. 🌱🌱 <br>
-I'm in the process of adapting to my company, so I haven't been able to undertake any side projects yet. However, I plan to work on a side project once I become more comfortable with my company tasks. <br>
+This year's goal: Complete one side project. I want to achieve this, so I write it down on my GitHub. <br>
 Welcome to my GitHub.😄
 
 <!--
